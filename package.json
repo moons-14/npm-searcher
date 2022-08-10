@@ -1,0 +1,14 @@
+{
+    "name": "@runkit/moons14_npm-sercher",
+    "version": "0.0.0-master",
+    "main": "./lib/npm-sercher",
+    "dependencies": {
+        "discord-interactions": "3.2.0",
+        "@runkit/runkit_express-endpoint": "https://runkit.com/runkit/express-endpoint/1.0.0",
+        "discord-escape": "1.0.0",
+        "query-registry": "2.5.0"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
